@@ -8,6 +8,8 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/jbdefalco/LM_R_script/main
 
+In command line: "Rscript LM_R.r regrex1.csv"
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
